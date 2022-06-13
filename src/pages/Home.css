@@ -1,0 +1,45 @@
+h1 {
+  color: cyan;
+  font-size: 50px;
+  font-family: "Tangerine", serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+thead {
+  color: white;
+  font-family: "Tangerine", serif;
+
+  text-shadow: 4px 4px 4px #aaa;
+  font-size: 25px;
+}
+
+tbody {
+  color: white;
+  font-size: 25px;
+  font-family: "Tangerine", serif;
+
+  text-shadow: 4px 4px 4px #aaa;
+}
+.button1 {
+  background: #56ccf2;
+  background: -webkit-linear-gradient(to right, #2f80ed, #56ccf2);
+  background: linear-gradient(to right, #2f80ed, #56ccf2);
+  color: white;
+  font-size: 25px;
+}
+.button12 {
+  background: #56ccf2;
+  background: -webkit-linear-gradient(to right, #2f80ed, #56ccf2);
+  background: linear-gradient(to right, #2f80ed, #56ccf2);
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 20px;
+}
+.modal-header {
+  color: black;
+}
+.form-label {
+  margin-bottom: 0.5rem;
+  color: white;
+}
